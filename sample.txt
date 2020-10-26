@@ -3,3 +3,4 @@ add comments!こんにちは１２３
 pullぷるもふもふ
 fetch
 piyaa--
+結合時には、基本的にはmerge使う
